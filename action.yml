@@ -19,3 +19,4 @@ runs:
     - name: Install BuildDeck
       run: |
         pip install BuildDeck
+      shell: bash
